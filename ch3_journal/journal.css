@@ -1,0 +1,43 @@
+@font-face {
+	font-family: FFF_Tusj-webfont;
+	src: url("../fonts/FFF_Tusj-webfont.woff");
+}
+
+@font-face {
+font-family: "Emblema One";
+src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOneRegular.woff"),
+url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOneRegular.ttf");
+}
+
+body {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: 14px;
+}
+
+h1, h2 {
+	color:#CC6600;
+	text-decoration: underline;
+}
+
+h1 {
+	font-family: FFF_Tusj-webfont,"Emblema One",sans-serif;
+	border-bottom: 1px solid black;
+	font-size: 300%;
+}
+
+h2 {
+	font-size: 130%;
+}
+
+p {
+	color: maroon;
+}
+
+blockquote {
+	font-style: italic;
+}
+/*
+em {
+	font-family: serif;
+}
+*/

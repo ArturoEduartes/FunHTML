@@ -1,0 +1,57 @@
+body {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	font-size: 14px;
+	color: silver;
+}
+
+h1, h2 {
+	color: gray;
+}
+
+h1 {
+	border-bottom: 1px solid black;
+	font-size: 21px;
+}
+
+h2 {
+	font-size: 17px;
+}
+
+p {
+	color: maroon;
+	font-size: 14px;
+}
+/*
+em {
+	font-family: serif;
+}
+*/
+.greentea {
+	color: green;
+}
+
+.blueberry {
+	color: purple;
+}
+
+.raspberry {
+	color: blue;
+}
+
+.cranberry {
+	color: maroon;
+}
+
+/* Usar font Personalizado */
+/*
+@font-face {
+	font-family:"SkippySharpieReg";
+	src:
+	local("Skippy Sharpie Regular"),
+  local("Skippy-Sharpie-Regular"),
+	url("../fonts/SkippySharpieRegular.ttf")
+	format("truetype");
+}
+.skippy {
+	font-family: SkippySharpieReg, sans-serif;
+}*/
