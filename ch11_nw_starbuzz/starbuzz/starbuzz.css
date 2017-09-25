@@ -107,5 +107,15 @@ img#headerSlogan {
 }
 
 #coupon a, img {
-border: none;
+	border: none;
+}
+ul{
+	background-color: #efe5d0;
+	margin: 10px 10px 0px 10px;
+	list-style-type: none;
+	padding: 5px 0px 5px 0px;
+
+}
+ul li{
+
 }
