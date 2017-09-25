@@ -2,5 +2,7 @@
  git remote -v
  git remote add origin https://github.com/ArturoEduartes/FunHTML.git
  git status
-  git push origin master
+ git push origin master
  git commit -m "Primeros Pasos"
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"

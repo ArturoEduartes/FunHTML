@@ -1,0 +1,8 @@
+Atom config
+- Atom-Ctags
+- Autoclose-HTML
+- Platformio IDE Terminal
+- W3C Validation
+- PHP-integrator-autocomplete plus
+- PHP integrator base
+- Project Manager 
