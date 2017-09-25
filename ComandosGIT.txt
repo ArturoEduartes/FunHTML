@@ -5,4 +5,9 @@
  git push origin master
  git commit -m "Primeros Pasos"
  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+ git config --global user.name "Your Name"
+
+  git config user.email "MyUser@Asus-PC.com"
+  git config user.name "Arturo Eduartes" 
+
+ 
