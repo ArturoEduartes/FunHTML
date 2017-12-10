@@ -11,7 +11,7 @@ header.top {
 	height: 108px;
 }
 
-section#main, section#blog {
+section.main, section#blog {
 	display: table-cell;
 	background: #efe5d0 url(images/background.gif) top left;
 	font-size: 105%;
